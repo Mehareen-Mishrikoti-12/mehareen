@@ -16,5 +16,5 @@ I'm learning through building real-world projects, enhancing my understanding of
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/mehareen-mishrikoti-374775330" target="blank"><img align="center" src="https://github.com/Mehu-12 " alt="mehareenmishrikoti-ab636611b" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mehareen-mishrikoti-374775330" target="blank"><img align="center" src="https://github.com/Mehu-12 " alt="mehareenmishrikoti" height="30" width="40" /></a>
 </p>
