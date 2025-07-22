@@ -8,13 +8,13 @@ I’m a frontend developer passionate about crafting clean, responsive, and user
 
 I'm learning through building real-world projects, enhancing my understanding of HTML, CSS, JavaScript, and React fundamentals like hooks, component architecture, props/state, and routing.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehu-12&show_icons=true&locale=en" alt="mehareenmishrikoti" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehareenmishrikoti&show_icons=true&locale=en" alt="mehareenmishrikoti" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehu-12&show_icons=true&locale=en&layout=pie" alt="mehareenmishrikoti" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehareenmishrikoti&show_icons=true&locale=en&layout=pie" alt="mehareenmishrikoti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehu-12&" alt="mehareenmishrikoti" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/mehareen-mishrikoti-374775330" target="blank"><img align="center" src="https://github.com/Mehu-12 " alt="mehareenmishrikoti" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mehareen-mishrikoti-374775330" target="blank"><img align="center" src="https://github.com/mehareenmishrikoti " alt="mehareenmishrikoti" height="30" width="40" /></a>
 </p>
